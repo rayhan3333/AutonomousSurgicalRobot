@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b04c9eb95a35542cd84a7bfc4badfb23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Scripts/SoftbodyController.cs
+  uploadId: 764248

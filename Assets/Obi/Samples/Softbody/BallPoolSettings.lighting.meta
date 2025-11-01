@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc7fcff164c90460897c72de1049ba99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/BallPoolSettings.lighting
+  uploadId: 764248

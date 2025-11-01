@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3b93997453834b97a4e8f3df52e1068
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Common/SampleResources/Materials/FinishLine.mat
+  uploadId: 764248

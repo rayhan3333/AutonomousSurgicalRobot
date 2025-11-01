@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b53a7094646e046479f8cd6e1a046f3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Softbody/Blueprints/Properties/ObiSoftbodyInfluenceChannel.cs
+  uploadId: 764248

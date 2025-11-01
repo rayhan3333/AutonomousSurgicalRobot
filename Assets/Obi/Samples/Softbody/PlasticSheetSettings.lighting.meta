@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58f33f0650fbe4be8872041e0119292e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/PlasticSheetSettings.lighting
+  uploadId: 764248

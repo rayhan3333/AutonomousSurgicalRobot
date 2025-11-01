@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad74f84213cb34f9e94b2b0a4e95d1a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Softbody/Blueprints/RenderModes/ObiBlueprintRenderModeCollisionDirection.cs
+  uploadId: 764248

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d642dbf4a869c4761b38ce3f65e22f05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Scripts/Common/Blueprints/Constraints/Batches/ObiPinholeConstraintsBatch.cs
+  uploadId: 764248

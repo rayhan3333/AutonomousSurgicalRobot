@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fccc267b58171450ea23d051b1b2d2c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: d0123218ec6144d0983c099fc7339924, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Scripts/Softbody/Blueprints/ObiSoftbodySurfaceBlueprint.cs
+  uploadId: 764248

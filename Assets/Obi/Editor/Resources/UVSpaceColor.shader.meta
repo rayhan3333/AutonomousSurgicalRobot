@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 459ae7c4c81724f20b6810647d2dbd3d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Resources/UVSpaceColor.shader
+  uploadId: 764248

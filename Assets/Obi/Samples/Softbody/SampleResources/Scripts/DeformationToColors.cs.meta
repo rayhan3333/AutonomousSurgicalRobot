@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cdb1b909ba82f45899af962695745cad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Scripts/DeformationToColors.cs
+  uploadId: 764248

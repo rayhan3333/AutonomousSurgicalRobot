@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2143cb1628eea4087a525f413c411ac3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Skinmaps/BigGuyShirtSkinmap.asset
+  uploadId: 764248

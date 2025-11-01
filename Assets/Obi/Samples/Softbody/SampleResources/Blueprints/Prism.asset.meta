@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 666339076d77340eb916be28a35e5379
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Blueprints/Prism.asset
+  uploadId: 764248

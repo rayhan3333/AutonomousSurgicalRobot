@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a5455d2f5ab50497d8642726d64b9cd5
+timeCreated: 1445287084
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Resources/VoxelMaterial.shader
+  uploadId: 764248

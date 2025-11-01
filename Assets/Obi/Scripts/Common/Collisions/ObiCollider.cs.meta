@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6757b231cedd544c583ef8aeaf773b2a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Scripts/Common/Collisions/ObiCollider.cs
+  uploadId: 764248
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

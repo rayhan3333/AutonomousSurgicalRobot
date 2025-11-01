@@ -1,0 +1,37 @@
+# ============ Unity Generated ============ #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# ============ OS & IDE ============ #
+.DS_Store
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.userprefs
+*.blend1
+*.meta.tmp
+*.bak
+*.tmp
+
+# ============ Unity Cache & Local ============ #
+[Bb]uilds/
+[Aa]sset[Ss]tore/
+[Ll]ibrary/
+[Tt]emp/
+Logs/
+UserSettings/
+Recordings/

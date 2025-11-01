@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 368c8e994c6294ace963860ba494e35a
+labels:
+- ObiSoftbody
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/ElasticCharacter.unity
+  uploadId: 764248

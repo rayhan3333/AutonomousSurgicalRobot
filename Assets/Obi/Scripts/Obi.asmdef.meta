@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da7abd44cdeea48609605c1c2c9609c0
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Scripts/Obi.asmdef
+  uploadId: 764248

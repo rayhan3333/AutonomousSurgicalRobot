@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f50a8dbdca2474bc7b3927c187508744
+labels:
+- ObiSoftbody
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/BallPool.unity
+  uploadId: 764248

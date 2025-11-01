@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b1df68bf523b4106a6b113980018d93
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Resources/Compute/DistanceFunctions.cginc
+  uploadId: 764248

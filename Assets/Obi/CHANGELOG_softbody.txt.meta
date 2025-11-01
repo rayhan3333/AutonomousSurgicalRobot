@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05fc946dfc1a84469970b941876a7c4a
+labels:
+- ObiSoftbody
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/CHANGELOG_softbody.txt
+  uploadId: 764248

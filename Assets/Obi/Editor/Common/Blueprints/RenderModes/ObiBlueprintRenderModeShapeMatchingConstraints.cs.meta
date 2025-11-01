@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e5ff128cfebee45ffb8266eb3e75522e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Common/Blueprints/RenderModes/ObiBlueprintRenderModeShapeMatchingConstraints.cs
+  uploadId: 764248

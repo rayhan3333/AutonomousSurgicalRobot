@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c668cf76c548481c80404cce80ab834
+timeCreated: 1445287098
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Resources/EditorParticle.mat
+  uploadId: 764248

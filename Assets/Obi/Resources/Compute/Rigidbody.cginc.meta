@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 157a770866f4047a5b8a08e6aca2f1bf
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Resources/Compute/Rigidbody.cginc
+  uploadId: 764248

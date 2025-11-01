@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f7fe453123c545a78b92fa0c084f7a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Scripts/PostOnRail.cs
+  uploadId: 764248

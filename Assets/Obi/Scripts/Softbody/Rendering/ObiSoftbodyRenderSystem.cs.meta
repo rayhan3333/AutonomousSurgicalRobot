@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6fbdad990c38c480db0dc9eec441de65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Scripts/Softbody/Rendering/ObiSoftbodyRenderSystem.cs
+  uploadId: 764248

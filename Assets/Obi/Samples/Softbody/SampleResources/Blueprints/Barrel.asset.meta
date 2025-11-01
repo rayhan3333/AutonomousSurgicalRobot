@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3715b25984ad42e5aa4ae9b9aa840cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Softbody/SampleResources/Blueprints/Barrel.asset
+  uploadId: 764248

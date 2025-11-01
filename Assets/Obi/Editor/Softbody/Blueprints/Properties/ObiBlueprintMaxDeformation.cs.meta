@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a3faef353abc46f6873ae1113d6b274
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Editor/Softbody/Blueprints/Properties/ObiBlueprintMaxDeformation.cs
+  uploadId: 764248

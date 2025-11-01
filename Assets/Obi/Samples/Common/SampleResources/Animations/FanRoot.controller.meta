@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07415f30e4149416b920c1da07bdc3b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130029
+  packageName: Obi Softbody
+  packageVersion: 7.1
+  assetPath: Assets/Obi/Samples/Common/SampleResources/Animations/FanRoot.controller
+  uploadId: 764248
